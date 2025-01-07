@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-07T16:36:25 EET" name="Default suite" finished-at="2025-01-07T16:37:30 EET" duration-ms="64495">
+    <groups>
+    </groups>
+    <test started-at="2025-01-07T16:36:25 EET" name="Default test" finished-at="2025-01-07T16:37:30 EET" duration-ms="64495">
+      <class name="AddingItemsTest.RightItems">
+        <test-method is-config="true" signature="MySetup()[pri:0, instance:AddingItemsTest.RightItems@1cdc4c27]" started-at="2025-01-07T16:36:25 EET" name="MySetup" finished-at="2025-01-07T16:36:26 EET" duration-ms="1113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetup -->
+        <test-method signature="Login()[pri:1, instance:AddingItemsTest.RightItems@1cdc4c27]" started-at="2025-01-07T16:36:26 EET" name="Login" finished-at="2025-01-07T16:36:27 EET" duration-ms="564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="AddingRightItems()[pri:2, instance:AddingItemsTest.RightItems@1cdc4c27]" started-at="2025-01-07T16:36:27 EET" name="AddingRightItems" finished-at="2025-01-07T16:36:27 EET" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddingRightItems -->
+        <test-method signature="LogOut()[pri:3, instance:AddingItemsTest.RightItems@1cdc4c27]" started-at="2025-01-07T16:36:27 EET" name="LogOut" finished-at="2025-01-07T16:36:29 EET" duration-ms="2167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method is-config="true" signature="AfterTesting()[pri:0, instance:AddingItemsTest.RightItems@1cdc4c27]" started-at="2025-01-07T16:36:29 EET" name="AfterTesting" finished-at="2025-01-07T16:37:30 EET" duration-ms="60317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTesting -->
+      </class> <!-- AddingItemsTest.RightItems -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
